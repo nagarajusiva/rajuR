@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="JunkinsSuite" duration-ms="3241" started-at="2016-10-09T17:23:02Z" finished-at="2016-10-09T17:23:05Z">
+    <groups>
+    </groups>
+    <test name="junkinsTest" duration-ms="3241" started-at="2016-10-09T17:23:02Z" finished-at="2016-10-09T17:23:05Z">
+      <class name="com.pak.jenkines.SampleProgrameDemo">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.pak.jenkines.SampleProgrameDemo@21a06946]" name="setUp" is-config="true" duration-ms="3215" started-at="2016-10-09T22:53:02Z" finished-at="2016-10-09T22:53:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyGooglePageText()[pri:0, instance:com.pak.jenkines.SampleProgrameDemo@21a06946]" name="verifyGooglePageText" duration-ms="4" started-at="2016-10-09T22:53:05Z" finished-at="2016-10-09T22:53:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGooglePageText -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.pak.jenkines.SampleProgrameDemo@21a06946]" name="tearDown" is-config="true" duration-ms="2" started-at="2016-10-09T22:53:05Z" finished-at="2016-10-09T22:53:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pak.jenkines.SampleProgrameDemo -->
+    </test> <!-- junkinsTest -->
+  </suite> <!-- JunkinsSuite -->
+</testng-results>
